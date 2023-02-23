@@ -23,8 +23,10 @@ export SHOW_MORE="false"
 export WAIOPS_PODS_MIN=115
 export DOC_URL="https://github.com/niklaushirt/cp4waiops-deployer#-demo-installation"
 
-export INSTALL_REPO="https://github.com/niklaushirt/cp4waiops-deployer.git"
+# export INSTALL_REPO="https://github.com/niklaushirt/cp4waiops-deployer.git"
 
+# TEST Pb turbonomic pro
+export INSTALL_REPO="https://github.com/jfarenq/cp4waiops-deployer.git"
 
 
 # ---------------------------------------------------------------------------------------------------------------"
